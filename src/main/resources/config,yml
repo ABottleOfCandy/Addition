@@ -1,0 +1,8 @@
+mysql:
+  address: "jdbc://localhost:3306/sakura"
+  username: "root"
+  password: "password"
+setting:
+  commands:
+    name: "test"
+    return_message: "welcome"
